@@ -1,0 +1,13 @@
+git init
+Inicializa um repositório na pasta em que vc está com o bash
+
+Configurar informações de autor:
+git config --local user.name "Seu nome aqui"
+git config --local user.email "seu@email.aqui"
+
+git status
+Exibe o status dos arquivos no repositório em questão
+
+Adicionar arquivos para serem monitorados pelo git
+git add nome do aquivo
+git add .  para todos os arquivos
