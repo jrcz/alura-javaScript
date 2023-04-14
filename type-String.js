@@ -7,8 +7,8 @@ console.log(texto1)
 const numeroString = "4"
 const numeroString1 = "2"
 
-console.log(numeroString / numeroString1) //isso é muito estranho
-console.log(numeroString + numeroString1) //para teste do git
+console.log(numeroString / numeroString1) 
+console.log(numeroString + numeroString1) 
 
 
 var cidade = "belo horizonte"
