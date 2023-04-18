@@ -1,4 +1,5 @@
 //Preparando arquivo para um commit
+const versão = "001"
 
 const texto1 = "teste texto 0123"
 
